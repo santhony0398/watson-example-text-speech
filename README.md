@@ -10,7 +10,7 @@ Instalar NodeJS y utitlizar algun editor
 - Cuenta de IBM Cloud
 
 ## Paso 0
-
+l
 Luego de que tengas instalado NodeJs y un editor de tu preferencia abre este proyecto y a continuaciom
 
 - Copia el archivo .env.ejemplo a .env .
